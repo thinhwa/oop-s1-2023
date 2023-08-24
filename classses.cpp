@@ -30,6 +30,6 @@ int main()
     person.occupation = "Homeless";
     person.age = 18;
 
-    std::cout << person.name << '\n'
+    std::cout << person.name << '\n';
 
 }
